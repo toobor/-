@@ -7,7 +7,7 @@
 + 123
 + 1323
 
-<center>![图例2.2](http://i2.buimg.com/567571/cfd9b12487742ecf.jpg)</center>
+<center>![图例2.2](https://github.com/toobor/About/blob/master/nihao/IMG_20160415_185314_HHT.jpg)</center>
 
 哈哈
 >```
