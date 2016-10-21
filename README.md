@@ -7,6 +7,8 @@
 + 123
 + 1323
 
+<center>![图例2.2](http://i2.buimg.com/567571/cfd9b12487742ecf.jpg)</center>
+
 哈哈
 >```
 nihoa 
